@@ -1,0 +1,11 @@
+langchain
+faiss-cpu
+pandas
+openpyxl
+pypdf
+python-dotenv
+langchain_community
+langchain_core
+unstructured
+networkx
+langchain-ollama==0.2.3
