@@ -1,3 +1,4 @@
+<a href="https://www.buymeacoffee.com/ArabicAI" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 # RAG System with Ollama and FAISS
 
 A Retrieval-Augmented Generation (RAG) system that uses Ollama for embeddings and language model, and FAISS for vector storage.
